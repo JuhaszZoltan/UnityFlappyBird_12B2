@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 3207652100699632933}
   - component: {fileID: 1031898134115198431}
   m_Layer: 0
-  m_Name: Pipe
+  m_Name: PipePrefab
   m_TagString: Untagged
   m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
