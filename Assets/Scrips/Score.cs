@@ -21,7 +21,6 @@ public class Score : MonoBehaviour
     {
         _currentScoreText.text = _score.ToString();
         _bestScoreText.text = PlayerPrefs.GetInt("HighScore", 0).ToString();
-        //UpdateHighScore();
     }
 
     private void UpdateHighScore()
